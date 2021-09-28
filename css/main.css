@@ -1,0 +1,22 @@
+canvas {
+	cursor: crosshair;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+
+.description {
+	display: flex;
+	flex-direction: column;
+	position: fixed;
+	top: 5px;
+	left: 20px;
+}
+
+h1 {
+	font-family: "Helvetica Neue", sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: -1px;
+	line-height: 1;
+}
